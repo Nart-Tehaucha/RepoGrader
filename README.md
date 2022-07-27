@@ -1,6 +1,6 @@
 # RepoGrader
 ---
-This is a simple script that was made for our final seminar in Advanced Software Engineering.
+This is a simple script that was made for my final seminar in Advanced Software Engineering.
 
 * **DatasetGenerator.py** creates our dataset using Github API, and inserts it into a CSV file.
 
